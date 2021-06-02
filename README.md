@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  This is the <a href="https://btaps.github.io/Vanilla-JS-Shopping-List/" target="_blank">Disney+ Clone</a> hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  This is the <a href="https://btaps.github.io/Vanilla-JS-Shopping-List/" target="_blank">Shopping List Website</a> hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
 
 ### Technologies used:
